@@ -1,0 +1,4 @@
+Fetch API examples
+https://medium.com/@9cv9official/what-are-get-post-put-patch-delete-a-walkthrough-with-javascripts-fetch-api-17be31755d28
+
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
