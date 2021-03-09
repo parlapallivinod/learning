@@ -1,1 +1,2 @@
 https://www.byteslounge.com/tutorials/spring-transaction-isolation-tutorial
+https://www.baeldung.com/spring-transactional-propagation-isolation
