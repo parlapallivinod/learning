@@ -2,3 +2,5 @@ https://dev.mysql.com/doc/refman/8.0/en/innodb-locking-reads.html
 
 https://oracle-base.com/articles/sql/articles-sql
 https://livesql.oracle.com/apex/f?p=590:1:641145701654::NO:RP::
+
+https://www.atlantbh.com/handling-transactions-across-multiple-data-sources-in-spring-boot/
